@@ -6,4 +6,4 @@ float_1 - convert entered string into float;
 float_2 - returns average number from entered list of float elements;
 float_3 - returns radius of sphere from entered volume;
 float_4 - convert float number in rounded integer number;
-float_5;
+float_5 - compare deviation of float sum with entered deviation value;
